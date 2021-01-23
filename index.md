@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Ty's Website
 
 You can use the [editor on GitHub](https://github.com/tgreen24/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
